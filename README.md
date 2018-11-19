@@ -1,4 +1,6 @@
-# Bike-Sharing
+<h1>Bike Sharing</h1>
+
+<h2>Intro</h2>
 
 Bike sharing systems are new generation of traditional bike rentals where whole process from membership, rental and return 
 back has become automatic. Through these systems, user is able to easily rent a bike from a particular position and return 
